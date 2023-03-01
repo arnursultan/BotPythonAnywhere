@@ -1,0 +1,5 @@
+\.idea
+\venv
+users.db
+custom_states.py
+bot.py
